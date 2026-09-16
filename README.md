@@ -38,7 +38,7 @@ I write software and make music. Here are some of my projects.
 
 <h3><a href="https://github.com/simoz/omarchy-haven-theme">omarchy-haven-theme</a></h3>
 <p>Quiet harbours, rooftop gardens and little robots.</p>
-<a href="https://github.com/simoz/omarchy-haven-theme"><img src="https://repository-images.githubusercontent.com/1367490182/4759bd29-0ef1-4a9e-96db-5510b5063669" alt="Social preview for omarchy-haven-theme" width="100%"></a>
+<a href="https://github.com/simoz/omarchy-haven-theme"><img src="assets/haven-social.png" alt="Social preview for omarchy-haven-theme" width="100%"></a>
 
 </td>
 <td width="50%" valign="top">
