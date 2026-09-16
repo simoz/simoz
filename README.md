@@ -39,7 +39,7 @@ I write software and make music. Here are some of my projects.
 
 <h3><a href="https://github.com/simoz/omarchy-turner-theme">omarchy-turner-theme</a></h3>
 <p>An Omarchy theme inspired by William Turner.</p>
-<a href="https://github.com/simoz/omarchy-turner-theme"><img src="https://repository-images.githubusercontent.com/1363808087/b1c2ac5a-33e8-42a0-b6a6-a759320dbf54" alt="Social preview for omarchy-turner-theme" width="100%"></a>
+<a href="https://github.com/simoz/omarchy-turner-theme"><img src="https://repository-images.githubusercontent.com/1363808087/b6d27cb4-5385-4195-a35c-ef6542a5adf0" alt="Social preview for omarchy-turner-theme" width="100%"></a>
 
 </td>
 </tr>
