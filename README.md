@@ -4,8 +4,6 @@
 
 I write software and make music. Here are some of my projects.
 
-[GitHub](https://github.com/simoz) · [Codex](https://www.codexcoop.it)
-
 ## Featured projects
 
 ### [fretlab](https://github.com/simoz/fretlab)
