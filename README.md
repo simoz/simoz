@@ -18,7 +18,7 @@ I write software and make music. Here are some of my projects.
 <td width="50%" valign="top">
 
 <h3><a href="https://github.com/simoz/omarchy-1800-theme">omarchy-1800-theme</a></h3>
-<p>Nineteenth-century painting meets detailed pixel art, with parchment, ink and brass.</p>
+<p>A pixel art theme inspired by nineteenth-century cities, steam travel and harbors in the mist.</p>
 <a href="https://github.com/simoz/omarchy-1800-theme"><img src="https://repository-images.githubusercontent.com/1373708023/cd25e407-7219-48b6-8442-b263e98e512f" alt="Social preview for omarchy-1800-theme" width="100%"></a>
 
 </td>
