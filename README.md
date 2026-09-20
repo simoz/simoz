@@ -6,9 +6,9 @@ I write software and make music. Here are some of my projects.
 
 ## Plugins
 
-<a href="https://github.com/simoz/omarchy-vessel"><img src="https://repository-images.githubusercontent.com/1372282757/04bee237-e84f-44dd-9702-f2762642b1ae" alt="Vessel — social preview" width="100%"></a>
+<a href="https://github.com/simoz/omarchy-vessel"><img src="https://repository-images.githubusercontent.com/1372282757/6f6c5eb6-f9f3-45fa-b50b-6a9b065f4cba" alt="Vessel — social preview" width="100%"></a>
 <h3>Vessel</h3>
-<p>A marine radar that names the boats on your horizon.</p>
+<p>A marine radar for Omarchy. Discover nearby ships, see where they’re heading, and explore the traffic along your coast.</p>
 
 ## Themes
 
