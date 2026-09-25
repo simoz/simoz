@@ -6,6 +6,10 @@ I write software and make music. Here are some of my projects.
 
 ## Plugins
 
+<a href="https://github.com/simoz/omarchy-outbound"><img src="https://repository-images.githubusercontent.com/1382204979/55ddaf41-6ed4-4714-ae87-c58a5f7e8015" alt="Outbound — social preview" width="100%"></a>
+<h3>Outbound</h3>
+<p>See where your apps connect. An Omarchy plugin that shows TCP connections by application, IP and country on an interactive globe.</p>
+
 <a href="https://github.com/simoz/omarchy-vessel"><img src="https://repository-images.githubusercontent.com/1372282757/6f6c5eb6-f9f3-45fa-b50b-6a9b065f4cba" alt="Vessel — social preview" width="100%"></a>
 <h3>Vessel</h3>
 <p>A marine radar for Omarchy. Discover nearby ships, see where they’re heading, and explore the traffic along your coast.</p>
