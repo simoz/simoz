@@ -6,7 +6,7 @@ I write software and make music. Here are some of my projects.
 
 ## Plugins
 
-<a href="https://github.com/simoz/cinderbar"><img src="https://repository-images.githubusercontent.com/1414275778/3eadfd6b-80fa-452d-b054-840bee9b0c7c" alt="Cinder Bar — social preview" width="100%"></a>
+<a href="https://github.com/simoz/cinderbar"><img src="https://repository-images.githubusercontent.com/1414275778/7b111501-b210-48d3-a8c9-be8f150e27e4" alt="Cinder Bar — social preview" width="100%"></a>
 <h3>Cinder Bar</h3>
 <p>AI token burn and plan pacing for Claude and Codex, in the macOS menu bar. A native port of Burn Bar.</p>
 
